@@ -1,5 +1,5 @@
 # photoskey
-### Requires
+### Requires Python 3
 Pillow and Numpy
 ```
 python -m pip install Pillow && python -m pip install numpy
